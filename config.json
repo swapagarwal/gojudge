@@ -1,0 +1,17 @@
+{
+    "FileName": "FILE",
+    "Languages": {
+        "C": {
+            "Time": 2,
+            "Memory": 50000,
+            "Compile": "gcc FILE",
+            "Run": "./a.out"
+        },
+        "Python": {
+            "Time": 10,
+            "Memory": 50000,
+            "Compile": "",
+            "Run": "python FILE"
+        }
+    }
+}
