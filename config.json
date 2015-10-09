@@ -10,7 +10,7 @@
         "Python": {
             "Time": 10,
             "Memory": 50000,
-            "Compile": "",
+            "Compile": ":",
             "Run": "python FILE"
         }
     }
